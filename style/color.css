@@ -1,0 +1,8 @@
+div{
+    background-color: tomato;
+    font-weight: 900;
+    font-size: large;
+    padding: 20px;
+    border: 20px;
+    border-style: inset;
+}
